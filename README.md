@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dylan 👋
 
-<!--
-**Dylanlwh006/Dylanlwh006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Information Science student at Tsinghua University. 
 
-Here are some ideas to get you started:
+Building projects at the intersection of hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python • C++ • PyTorch • Git • Machine Learning
+
+## Current Projects
+- Circuit Simulator + ML Predictor
+- Chess Game (C++ + Raylib)
+
+Always open to learning and collaboration.
