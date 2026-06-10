@@ -9,6 +9,5 @@ Python • C++ • PyTorch • Git • Machine Learning
 
 ## Current Projects
 - Circuit Simulator + ML Predictor
-- Wave Shooter Game (C++ + Raylib)
 
 Always open to learning and collaboration.
